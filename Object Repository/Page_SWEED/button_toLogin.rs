@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_toLogin</name>
+   <tag></tag>
+   <elementGuidId>132daf0d-ea69-4e2d-82bb-aa3ca3b12fe4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>da5bcec1-f243-4e76-944f-933e2d9e75e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>90acdb9b-5d17-4e83-8428-72010ee75273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sweed-color-light underline hover:text-sweed-white</value>
+      <webElementGuid>5f38b65f-8fe3-4ce4-8a54-3ce41186fa2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in</value>
+      <webElementGuid>b5d2f4e2-6dc7-4a26-821e-e6d27c7c5202</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;dark&quot;]/body[@class=&quot;bg-sweed-gray&quot;]/section[@class=&quot;bg-sweed-gray&quot;]/div[@class=&quot;lg:grid lg:min-h-screen lg:grid-cols-12&quot;]/main[@class=&quot;flex items-center justify-center px-8 py-8 sm:px-12 lg:col-span-7 lg:py-12 lg:px-16 xl:col-span-6&quot;]/div[@class=&quot;max-w-xl lg:max-w-3xl&quot;]/div[@class=&quot;col-span-6 sm:flex sm:gap-2 mt-6&quot;]/form[1]/button[@class=&quot;text-sweed-color-light underline hover:text-sweed-white&quot;]</value>
+      <webElementGuid>122444b4-df3b-423c-b46c-9e8469df4a1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[3]</value>
+      <webElementGuid>fbcc6e43-d796-4379-88d1-370d9e74c524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create an account'])[1]/following::button[1]</value>
+      <webElementGuid>8b185346-fef2-423b-bc4d-4bdeaa268e4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
+      <webElementGuid>ee754678-e926-419b-887b-cd61426bcbb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/form/button</value>
+      <webElementGuid>d9e6b6a5-f245-4a71-b6b3-77ada4b5385f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Log in' or . = 'Log in')]</value>
+      <webElementGuid>d176cb39-12ca-4511-92ed-3ee253ca9d8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

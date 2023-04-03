@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Price3</name>
+   <tag></tag>
+   <elementGuidId>e7e8d4e6-77fb-416d-8a57-8044aaa5d395</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='stone-free'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.flex-1.items-center.justify-end.gap-2 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>26c37945-1445-4729-88ff-3b596aec25f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>฿2</value>
+      <webElementGuid>95b41610-b110-4ead-bf4f-807be8472c70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;dark&quot;]/body[@class=&quot;bg-sweed-dark text-sweed-white&quot;]/section[@class=&quot;lg:w-[70%] w-[80%] mx-auto&quot;]/div[@class=&quot;mx-auto max-w-screen-xl py-8 sm:py-12 lg:px-8&quot;]/div[@class=&quot;mx-auto max-w-3xl&quot;]/div[@class=&quot;mt-4 bg-sweed-gray p-4 rounded-lg text-sweed-white&quot;]/ul[@class=&quot;space-y-4&quot;]/li[@class=&quot;flex items-center gap-4&quot;]/div[@class=&quot;flex flex-1 items-center justify-end gap-2&quot;]/span[1]</value>
+      <webElementGuid>3f641e99-d8bd-40d1-98f7-fdb765efcf71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='again'])[1]/following::span[1]</value>
+      <webElementGuid>26abafde-c249-43cc-99a0-ad59e3a43c1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::span[1]</value>
+      <webElementGuid>bb74f8f2-25f2-45b9-8e17-2d989e15b84a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity'])[2]/preceding::span[1]</value>
+      <webElementGuid>42ceb693-2b48-4e19-87ad-48f8c05915cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='−'])[2]/preceding::span[1]</value>
+      <webElementGuid>f1e66093-35a5-4abd-8151-de9618b182f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='฿2']/parent::*</value>
+      <webElementGuid>34eaa575-a6fd-46ed-9ab2-6fb555091c92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/span</value>
+      <webElementGuid>1071d87b-837d-46b1-bbdf-7e55267d88ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '฿2' or . = '฿2')]</value>
+      <webElementGuid>5e376d89-050f-41e3-9f67-3ac988a6f731</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

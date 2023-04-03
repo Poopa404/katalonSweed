@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>user_Name</name>
+   <tag></tag>
+   <elementGuidId>e94a6f7e-0b3c-412f-bb3c-0f5bf1c93ba1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='mainMenuNavbar']/div/div/div[3]/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>14ac68e3-8ee1-476c-9697-db9a11d91640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-ellipsis whitespace-nowrap overflow-hidden max-w-[8rem] hidden sm:block</value>
+      <webElementGuid>a52a14a7-49e6-4abb-a847-c9fae9f05e94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kritayach Jongchaisittikul</value>
+      <webElementGuid>289e1c7a-cadc-45a8-9fc0-ce15a627152c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainMenuNavbar&quot;)/div[@class=&quot;mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8&quot;]/div[@class=&quot;flex h-16 items-center justify-between&quot;]/div[@class=&quot;flex items-center gap-4&quot;]/div[@class=&quot;sm:flex sm:gap-4 h-10&quot;]/div[1]/button[@class=&quot;rounded-md bg-sweed-color hover:bg-sweed-color-light flex flex-row px-5 py-2 text-sm font-medium text-sweed-gray shadow&quot;]/span[@class=&quot;text-ellipsis whitespace-nowrap overflow-hidden max-w-[8rem] hidden sm:block&quot;]</value>
+      <webElementGuid>c9ee9f41-aedf-4ee9-8602-648c42120f8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='mainMenuNavbar']/div/div/div[3]/div/div/button/span</value>
+      <webElementGuid>4c2e1d73-1071-4069-8561-63488e7cbba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SWEED'])[2]/following::span[1]</value>
+      <webElementGuid>5c6c6dfc-dcfc-457d-b583-e87d6d979410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Kritayach', &quot;'&quot;, 's Account')])[1]/preceding::span[1]</value>
+      <webElementGuid>2b01d94b-b820-430f-b93b-173909e3c4e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::span[2]</value>
+      <webElementGuid>99018d9e-41c9-4b98-b403-75e830ae0d86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kritayach Jongchaisittikul']/parent::*</value>
+      <webElementGuid>bbb49340-52c6-489a-8ef1-e0ac7de82660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button/span</value>
+      <webElementGuid>5c8c4c87-902f-440d-9131-f56e92ba6252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Kritayach Jongchaisittikul' or . = 'Kritayach Jongchaisittikul')]</value>
+      <webElementGuid>a3514277-3c0e-4c63-9756-74cfe7b7ea8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

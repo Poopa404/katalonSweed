@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_AddToCart3</name>
+   <tag></tag>
+   <elementGuidId>182b0740-6df5-4bf4-9835-83436105e03f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='stone-free2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#first1 > #first1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>70fb395c-ed53-4c1e-a8d4-ee178a897986</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>18ea450b-273d-41f4-89cc-e663d2431c2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>d0f6521b-33bb-40b7-91f1-ba4ebe86afa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>f34c3e15-e7f6-435f-a766-f0eb0f466994</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>first1</value>
+      <webElementGuid>056fae58-db86-4cab-b8b2-9e2c0ec3a911</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cartBtn block w-full rounded bg-sweed-color p-4 text-sm font-medium transition-transform hover:scale-105 active:bg-sweed-white</value>
+      <webElementGuid>4944a363-aa7a-4b86-8b3e-c20b8083eeb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                      Add to Cart
+                    </value>
+      <webElementGuid>8a4efa24-d2e1-48e9-86a5-3e2cb6deca3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;stoner&quot;)/div[2]/section[@id=&quot;menus&quot;]/div[@class=&quot;group relative block overflow-hidden basis-1 sm:basis-1/2 lg:basis-1/4 mx-1 mb-8&quot;]/div[@class=&quot;relative border border-sweed-gray bg-sweed-gray p-6&quot;]/form[@id=&quot;first1&quot;]/button[@id=&quot;first1&quot;]</value>
+      <webElementGuid>0efc58c8-b9b6-472b-8f5e-460beb0f1b8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='first1']</value>
+      <webElementGuid>f5c55c02-5d9f-4a12-9085-a34d692146b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='first1']/button</value>
+      <webElementGuid>5b704e49-1d68-466a-a4b1-92d68b085b9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='first'])[1]/following::button[1]</value>
+      <webElementGuid>380cadc9-37f0-444c-bd92-de0648550b02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/following::button[1]</value>
+      <webElementGuid>f97d37b2-f7d9-4e74-968b-fd48797d0c37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[2]/preceding::button[1]</value>
+      <webElementGuid>6863c344-7ac9-41d3-9708-c121d29908ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/form/button</value>
+      <webElementGuid>01c3488f-76cf-443d-a815-dcd6d9d0236e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @name = 'submit' and @id = 'first1' and (text() = '
+                      Add to Cart
+                    ' or . = '
+                      Add to Cart
+                    ')]</value>
+      <webElementGuid>dacaeb1e-60e6-4f61-a5b4-5d0830690341</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

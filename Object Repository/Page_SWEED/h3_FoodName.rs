@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_FoodName</name>
+   <tag></tag>
+   <elementGuidId>7f463f5b-b58f-4e23-bcee-be6b6928f029</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::h3[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.text-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>923f131c-7415-4424-8a03-ef5574d17873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm</value>
+      <webElementGuid>410ba240-5e0d-4f3f-94e6-a7e1c6ac1896</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>again</value>
+      <webElementGuid>9468b269-7dab-4b3a-87e1-b15090795ff3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;dark&quot;]/body[@class=&quot;bg-sweed-dark text-sweed-white&quot;]/section[@class=&quot;lg:w-[70%] w-[80%] mx-auto&quot;]/div[@class=&quot;mx-auto max-w-screen-xl py-8 sm:py-12 lg:px-8&quot;]/div[@class=&quot;mx-auto max-w-3xl&quot;]/div[@class=&quot;mt-4 bg-sweed-gray p-4 rounded-lg text-sweed-white&quot;]/ul[@class=&quot;space-y-4&quot;]/li[@class=&quot;flex items-center gap-4&quot;]/div[3]/h3[@class=&quot;text-sm&quot;]</value>
+      <webElementGuid>7e19e8fe-6cbe-4055-b45a-a08ef32dd2fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::h3[1]</value>
+      <webElementGuid>9ad7418a-17e2-4314-a215-4ba54523f62f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='−'])[1]/following::h3[1]</value>
+      <webElementGuid>f40a555d-e035-4969-85ce-25c181a462cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='฿2'])[1]/preceding::h3[1]</value>
+      <webElementGuid>cfe63aca-0270-4b6d-97f4-ca574854ba91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity'])[2]/preceding::h3[1]</value>
+      <webElementGuid>36ee709d-f47d-47a4-b67f-5aaf688d8678</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='again']/parent::*</value>
+      <webElementGuid>5860c507-e17f-4c19-8113-b0c8fe329aab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>8bc98bc5-7487-4117-84f1-83644c6cb87a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'again' or . = 'again')]</value>
+      <webElementGuid>b92c31a0-cd4d-497b-8fe0-ad6d97f561ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddToCart Test Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3fdb1266-d18b-47e4-809b-0ae2162e7d36</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>40e0acab-8e45-456e-8727-74d959a02029</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>da434974-1cc5-4e18-be69-a628363927fe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1c6c0aa5-5541-4fcd-9c4d-dd7f135e04e3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'stone-free'</defaultValue>
+      <description></description>
+      <id>40e0acab-8e45-456e-8727-74d959a02029</id>
+      <masked>false</masked>
+      <name>food</name>
+   </variable>
+   <variable>
+      <defaultValue>'฿20'</defaultValue>
+      <description></description>
+      <id>da434974-1cc5-4e18-be69-a628363927fe</id>
+      <masked>false</masked>
+      <name>price</name>
+   </variable>
+   <variable>
+      <defaultValue>'stone-free2'</defaultValue>
+      <description></description>
+      <id>1c6c0aa5-5541-4fcd-9c4d-dd7f135e04e3</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+</TestCaseEntity>
